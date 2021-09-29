@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/79003543/135341000-dcb2f74c-83cc-4460-9b44-690d3d7deac8.png" />
+  <img src="https://user-images.githubusercontent.com/79003543/135350382-442121c9-759b-4b31-ac95-9a322afe44a1.png" />
 </p>
 
 ## Hello World!<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> Welcome to my Profile
