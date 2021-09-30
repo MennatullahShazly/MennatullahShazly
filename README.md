@@ -22,7 +22,7 @@
 - Skills: Data Visualization , Data Wrangling , Analysis & Statistics , Transact SQL
 
 **Fun Facts:**
-- :writing_hand: I spent hours to learn **```SQL```**, **```Python```**, **```Power BI```**, **```Calclus```** , **```Statistics```**.
+- :writing_hand: I spent hours to learn **```SQL```**, **```Python```**, **```Power BI```**, **```Calculus```** , **```Statistics```**.
 - :sparkles: **My greatest passion:** Using data to tell stories and drive insights for business success.
 
  
