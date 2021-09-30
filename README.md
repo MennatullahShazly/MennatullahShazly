@@ -14,7 +14,7 @@
 👩‍🎨 **Brief About Me:**
  - A Biomedical Engineer with 3 years of professional experience.
  - Transition to Data Analytics in Feb 2021.
- - Currently Learning WorldQuant Univerity Applied Data Science(sep-Dec 21)
+ - Currently Learning WorldQuant University Applied Data Science(sep-Dec 21)
  
 🧮 **Skills and Tools:**
 
@@ -22,7 +22,7 @@
 - Skills: Data Visualization , Data Wrangling , Analysis & Statistics , Transact SQL
 
 **Fun Facts:**
-- :writing_hand: I spent hours to learn **```SQL```**, **```Python```**, **```Power BI```**.
+- :writing_hand: I spent hours to learn **```SQL```**, **```Python```**, **```Power BI```**, **```Calclus```** , **```Statistics```**.
 - :sparkles: **My greatest passion:** Using data to tell stories and drive insights for business success.
 
  
