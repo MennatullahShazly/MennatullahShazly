@@ -14,7 +14,7 @@
 👩‍🎨 **Brief About Me:**
  - A Biomedical Engineer with 3 years of professional experience.
  - Transition to Data Analytics in Feb 2021.
- - Currently Learning WorldQuant University Applied Data Science(sep-Dec 21)
+ - Currently Learning WorldQuant University Applied Data Science(Sep-Dec 21)
  
 🧮 **Skills and Tools:**
 
