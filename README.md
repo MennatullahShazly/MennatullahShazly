@@ -14,7 +14,7 @@
 👩‍🎨 **Brief About Me:**
  - A Biomedical Engineer with 3 years of professional experience.
  - Transition to Data Analytics in Feb 2021.
- - -Currently working @FHH as a Business Intelligence and Data Analyst.
+ - Currently working @FHH as a Business Intelligence and Data Analyst.
  
 🧮 **Skills and Tools:**
 
